@@ -10,7 +10,7 @@ $pkg install git
 
 $pkg install bash
 
-$git clone https://github.com/agentrox8360/extrakey.git
+$git clone https://github.com/DNReporters/ExtraKey.git
 
 $cd extrakey
 
@@ -26,7 +26,7 @@ $pkg install git
 
 $pkg install bash
 
-$git clone https://github.com/agentrox8360/extrakey.git
+$git clone https://github.com/DNReporters/ExtraKey.git
 
 $cd extrakey
 
