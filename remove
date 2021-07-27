@@ -1,0 +1,4 @@
+mkdir $HOME/.termux/ ;echo "extra-keys = [['ESC','TAB','-','CTRL','ALT','-','DOWN','UP']" >> $HOME/.termux/termux.properties && termux-reload-settings && sleep 1 && logout
+figlet Done
+exit
+exit
